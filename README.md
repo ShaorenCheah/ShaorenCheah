@@ -6,7 +6,7 @@ Currently expanding my knowledge across various phases of SDLC in Software Engin
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs,vue,bootstrap,html,css,js,pug,saas,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs,vue,bootstrap,html,css,js,pug,figma)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=php,java,cpp,mysql,graphql,npm,nodejs)](https://skillicons.dev)
 
 <br>
